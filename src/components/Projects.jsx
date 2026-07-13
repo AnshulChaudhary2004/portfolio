@@ -32,7 +32,7 @@ function Projects() {
         <div className="project-card">
           <h3>Social Media UI</h3>
           <p>
-            A responsive social media interface built using resuable React
+            Responsive social media interface built using resuable React
             components and modern CSS.
           </p>
           <div className="project-buttons">
